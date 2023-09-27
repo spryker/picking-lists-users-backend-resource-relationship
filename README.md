@@ -4,6 +4,9 @@
 
 PickingListsUsersBackendResourceRelationship module provides a relationship between picking lists and users resources.
 
+**DEPRECATED - This module is not continued at this point.**
+Please use [spryker/picking-lists-users-backend-api](https://github.com/spryker/picking-lists-users-backend-api) instead.
+
 ## Installation
 
 ```
